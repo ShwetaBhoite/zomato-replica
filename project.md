@@ -1,4 +1,4 @@
-﻿﻿## Assignment: Zomato Landing Page
+## Assignment: Zomato Landing Page
 
 ### Problem Statement
 
@@ -161,9 +161,9 @@ User should have footer widget with `About Zomato` , `For Foodies` and `For Rest
 
 #### Details :
 
-
 - Create a `footer` element and inside footer, create `div` with class name `"footer-wrapper"` 
 
 - Inside `div` element add the list items("About Zomato", "For Foodies", "For Restaurants", "Countries")
 
 - Add a zomato logo and list of cities on top of the footer.
+
